@@ -11,4 +11,5 @@ In this, you will learn about the following:
 # Dataset
 
 The dataset used in this tutorial was taken from a 10K race that took place in Hillsboro, OR on June 2017.
-url = "http://www.hubertiming.com/results/2017GPTR10K"
+
+url = http://www.hubertiming.com/results/2017GPTR10K
